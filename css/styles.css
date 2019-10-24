@@ -1,8 +1,18 @@
-.about-me {
-  color: red;
-}
+.column {
+  width: 300px;
+  float: left;
+  margin:20px;
+  border: 2px solid red;
 
+}
 .sidebar {
-  width: 30%;
+
   float: right;
+  color: red;
+  border: 2px solid green;
+
+}
+.bandphoto {
+float: left;
+border: 2px solid blue;
 }
